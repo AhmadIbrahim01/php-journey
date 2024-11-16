@@ -1,4 +1,4 @@
-<!-- Palondrome check (no built-in functions) -->
+<!-- Palindrome check (no built-in functions) -->
 <?php
 
 $test = "Aoa";
