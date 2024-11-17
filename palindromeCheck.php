@@ -1,11 +1,12 @@
 <!-- Palindrome check (no built-in functions) -->
 <?php
 
-$test = "Aoa";
+$test = "aooa";
 
 function isPalindrome($test) {
 
     $string_length = 0;
+    // isset() is compulsory I think 🥲
     while (isset($test[$string_length])) {
         $string_length++;
     }

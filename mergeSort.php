@@ -1,3 +1,4 @@
+<!-- Merge sort -->
 <?php
 
 function mergeSort(&$array, $left, $right) {
